@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d10caaf0-4205-42b7-84c0-601225ae5ac4" name="Changes" comment="Homework of class_008" />
+    <list default="true" id="d10caaf0-4205-42b7-84c0-601225ae5ac4" name="Changes" comment="The package is renamed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680676360065</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="The package is renamed">
+      <created>1682039162113</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682039162113</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +129,7 @@
     <MESSAGE value="Homework of class_006" />
     <MESSAGE value="Homework of class_007" />
     <MESSAGE value="Homework of class_008" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework of class_008" />
+    <MESSAGE value="The package is renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="The package is renamed" />
   </component>
 </project>
