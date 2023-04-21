@@ -1,4 +1,4 @@
-package CodingTasks001;
+package GroupTasks001;
 
 public class CT03_2dArrayEvenNumsOnly {
     public static void main(String[] args) {

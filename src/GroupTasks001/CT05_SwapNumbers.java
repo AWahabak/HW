@@ -1,4 +1,4 @@
-package CodingTasks001;
+package GroupTasks001;
 
 public class CT05_SwapNumbers {
     public static void main(String[] args) {

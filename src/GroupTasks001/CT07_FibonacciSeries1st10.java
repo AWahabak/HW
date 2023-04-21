@@ -1,4 +1,4 @@
-package CodingTasks001;
+package GroupTasks001;
 
 public class CT07_FibonacciSeries1st10 {
     public static void main(String[] args) {

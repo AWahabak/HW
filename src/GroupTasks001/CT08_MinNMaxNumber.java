@@ -1,27 +1,26 @@
-package CodingTasks001;
+package GroupTasks001;
 
-public class CT09_2ndLargestNum {
+public class CT08_MinNMaxNumber {
     public static void main(String[] args) {
 
         /*
-        Write a java program to find the second largest
-        number in the array?
+        Maximum and minimum number in the array?
          */
 
         int [] nums={34,56,23,56,12,78,57,45};
-
         int max=0;
-        int max2nd=0;
+        int min=1000000000;
 
         for (int i=0; i<nums.length; i++){
             if(nums[i]>max){
                 max=nums[i];
             }
-            if(max!=nums[i] && nums[i]>max2nd){
-                max2nd=nums[i];
+            if(nums[i]<min){
+                min=nums[i];
             }
         }
+        System.out.println(max);
+        System.out.println(min);
 
-        System.out.println(max2nd);
     }
 }

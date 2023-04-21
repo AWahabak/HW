@@ -1,4 +1,4 @@
-package CodingTasks001;
+package GroupTasks001;
 
 public class CT01_MaxNMinTemperature {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package CodingTasks001;
+package GroupTasks001;
 
 import java.util.Scanner;
 

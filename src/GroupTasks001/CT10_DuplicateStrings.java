@@ -1,4 +1,4 @@
-package CodingTasks001;
+package GroupTasks001;
 
 public class CT10_DuplicateStrings {
     public static void main(String[] args) {
