@@ -32,6 +32,7 @@ public class CT06_AnyNumberPrimeIdentifier {
 
             }
         }
+
         System.out.println();
         System.out.println("-----------------------------------------------------------------------------");
         System.out.println("The total frequency of factors are "+countFactor);
