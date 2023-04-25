@@ -1,0 +1,20 @@
+Testing Test Case 001
+Test case in gherkin
+=====================
+
+
+Expected successful login to Zoom application
+============================================================================================
+
+Given user has installed zoom application
+And user is able to launch the zoom application
+And user has the valid credentials (username in form of email and password)
+
+When user clicks on Sign in button
+And user enters the correct email address in the "Enter your email" text box
+And user enters the correct password in the "Enter your password" text box
+And in the meanwhile the "Sign In" button becomes actives by changes of color - gray to blue
+And user clicks on the "Sign In" button
+
+Then zoom application is launched
+And user sees the zoom graphical user interface (GUI)

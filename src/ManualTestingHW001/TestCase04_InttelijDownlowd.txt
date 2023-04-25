@@ -1,0 +1,23 @@
+Testing Test Case 004
+Test case in gherkin
+=====================
+
+Successful donwload of Intelli IDEA software in Microsoft Windows
+======================================================================================================
+
+Given user is connected to internet
+And user is able to launch internet browser
+And user is able to navigate to jetbrains.com website
+And user is able to see the homepage of JET BRAINS website
+And user is able to see the "Download" button at the bottom of Jet Brain website
+
+When user clicks on "Download" button
+And user sees the IntelliJ IDEA application installation file as "ideaIU-2023.1.exe" being downloaded
+And user sees the circular progressive bar of downloading
+And user waits for a short while depending on the internet speed
+
+Then user sees the "ideaIU-2023.1.exe" file download completed
+And user clicks on the "ideaIU-2023.1.exe" file
+And user sees to allow message from Microsoft Windows to open the file for changes
+And user clicks the "Yes" button
+And user sees the Welcome to IntelliJ IDEA Setup wizard

@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d10caaf0-4205-42b7-84c0-601225ae5ac4" name="Changes" comment="The package is renamed">
-      <change afterPath="$PROJECT_DIR$/src/Class_012/HomeWork/HW01_MiddleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class_012/HomeWork/HW02_ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class_012/HomeWork/HW03_NameConstruct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_001/NoHomeWork/NoHomeWork.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_001/NoHomeWork/NoHomeWork.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_005/NoHomeWork/NoHomeWork.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_005/NoHomeWork/NoHomeWork.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupTasks001/CT06_AnyNumberPrimeIdentifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupTasks001/CT06_AnyNumberPrimeIdentifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,0 +1,26 @@
+Testing Test Case 005
+Test case in gherkin
+=====================
+
+
+Successful creation of a remote public respository in GitHub
+===================================================================================================
+
+Given user is connected to internet
+And user is able to launch internet browser
+And user is able to navigate to GitHub website
+And user is able to log in by valid user/password
+And user is able to see the logged in page of GitHub website
+And user is able to see the "New" green button at the top left of the page
+
+When user clicks on "New" green button
+And user sees the "Create a new repository" page
+And user enters the name of repository in the text box below "Repository name *" label
+And user sees a green check mark in the text box
+And user clicks "Public" check box
+And user scrolls down the same page
+And user clicks on the "Create repository" green button
+
+Then user sees the "Quick setup" page
+And user sees the URL
+And user sees the command lines for new repository

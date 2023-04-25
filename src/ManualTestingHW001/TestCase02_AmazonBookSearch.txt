@@ -1,0 +1,22 @@
+Testing Test Case 002
+Test case in gherkin
+=====================
+
+Successful search of a specific book in Amazon
+============================================================================================
+
+Given user is connected to internet
+And user is able to launch internet browser
+And user is able to navigate to Amazon website through URL
+And user is able to see the homepage of Amazon website
+And user is able to locate the search box on the top of the Amazon homepage
+
+When user clicks on the "All" dropdown list which is attached with search box
+And user navigates and clicks on "Books" from the list of categories
+And user is able to see "Books" instead of "All" on the dropdown list attached with search box
+And user click in the search Amazon text box
+And user enter the "book name author name"
+And user press the enter key on keyboard or user clicks on the magnifier button
+
+Then user can see the book under the "Results" section
+
