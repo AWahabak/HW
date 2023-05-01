@@ -15,6 +15,6 @@ public class HW02_emailAdd {
     public static void main(String[] args) {
         HW02_emailAdd emailBuild=new HW02_emailAdd();
         String output=emailBuild.createEmail("John","Snow","Gmail");
-        System.out.println(output.toLowerCase());
+        System.out.println(output.toLowerCase()); //the lowercase method can be coded in method as well
     }
 }

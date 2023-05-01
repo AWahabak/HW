@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d10caaf0-4205-42b7-84c0-601225ae5ac4" name="Changes" comment="The package is renamed" />
+    <list default="true" id="d10caaf0-4205-42b7-84c0-601225ae5ac4" name="Changes" comment="The package is renamed">
+      <change beforePath="$PROJECT_DIR$/src/Class_014/HomeWork/HW02_emailAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_014/HomeWork/HW02_emailAdd.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,14 +35,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HOME/IdeaProjects/SDETHomeWorks/src/Class_013/HomeWork"
+    "last_opened_file_path": "C:/Users/HOME/IdeaProjects/SDETHomeWorks/src"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HOME\IdeaProjects\SDETHomeWorks\src" />
       <recent name="C:\Users\HOME\IdeaProjects\SDETHomeWorks\src\Class_013\HomeWork" />
       <recent name="C:\Users\HOME\IdeaProjects\SDETHomeWorks\src\ManualTestingHW001" />
-      <recent name="C:\Users\HOME\IdeaProjects\SDETHomeWorks\src" />
       <recent name="C:\Users\HOME\IdeaProjects\SDETHomeWorks\src\Class_005\NoHomeWork" />
       <recent name="C:\Users\HOME\IdeaProjects\SDETHomeWorks\src\Class_004" />
     </key>
