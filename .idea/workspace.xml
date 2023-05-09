@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d10caaf0-4205-42b7-84c0-601225ae5ac4" name="Changes" comment="The package is renamed" />
+    <list default="true" id="d10caaf0-4205-42b7-84c0-601225ae5ac4" name="Changes" comment="The package is renamed">
+      <change afterPath="$PROJECT_DIR$/src/Class_018/HomeWork/ChemistryTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_018/HomeWork/MathTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_018/HomeWork/PianoTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_018/HomeWork/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_018/HomeWork/TeacherTester.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HOME/IdeaProjects/SDETHomeWorks/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HOME/IdeaProjects/SDETHomeWorks/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HOME\IdeaProjects\SDETHomeWorks\src" />
